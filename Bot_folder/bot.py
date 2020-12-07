@@ -214,4 +214,4 @@ async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
 
-client.run('NzgxMDgyODE0ODY2Nzg0Mjc2.X74eDg.vjKGcYX2wRmlTcQiA8A31TJygBI')
+client.run()
